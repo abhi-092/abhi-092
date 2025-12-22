@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on: A comprehensive EDA project on the Titanic dataset.<br><br>🌱 I’m currently learning: The fundamentals of Linear Algebra and Python's Matplotlib.<br><br>🤝 I’m looking for help with: Optimizing my Git workflow and understanding 'Big O' notation.<br><br>⚡ Fun fact: I drink more coffee than my code has lines!<br>
-
+<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.167106897a1c7e3cec6f981cbb481f42?cb=ucfimg2&pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2ffc%2f71%2f63%2ffc71635c7f1b09ed30413f59bb749582.gif&ehk=Oaq8grgGMIUmAugAYL%2fJ3ioGUkpIMSJZpOhZqFfXF64%3d&ucfimg=1"
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-rajput-842211270/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ak0548910@gmail.com) 
