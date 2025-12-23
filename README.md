@@ -1,4 +1,4 @@
-<img width="1000" height="350" alt="image" src="https://github.com/user-attachments/assets/17b32f00-136d-482f-9283-4580d18f4d80" />
+
 # 💫 About Me:
 🔭 I’m currently working on: A comprehensive EDA project on the Titanic dataset.<br><br>🌱 I’m currently learning: The fundamentals of Linear Algebra and Python's Matplotlib.<br><br>🤝 I’m looking for help with: Optimizing my Git workflow and understanding 'Big O' notation.<br><br>⚡ Fun fact: I drink more coffee than my code has lines!<br>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
