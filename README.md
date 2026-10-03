@@ -1,9 +1,6 @@
 
 <div align="center">
-  <img src="assets/profile-banner.png" alt="Abhishek Rajput - Aspiring Data Analyst" width="100%">
-</div>
 
----
 # Abhishek Rajput
 
 ### Aspiring Data Analyst | BSc Data Science Student
