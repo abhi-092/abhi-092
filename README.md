@@ -1,27 +1,159 @@
-# 💫 About Me:
-📊 Interested in Data Analytics, Data Science, and Business Intelligence.<br>🐍 Learning and working with Python for data analysis and machine learning.<br>📈 Creating interactive dashboards and reports using Power BI and Tableau.<br>🤖 Exploring Machine Learning algorithms and data preprocessing techniques.<br>☁️ Learning cloud technologies and working with AWS fundamentals.<br>🎯 Focused on building practical projects and growing as a data professional.
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhishek Rajput) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ak0548910@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ak0548910@gmail.com) 
+# Abhishek Rajput
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abhi-092&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abhi-092&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhi-092&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Aspiring Data Analyst | BSc Data Science Student
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhi-092&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+*Turning data into insights through analytics, visualization, and problem-solving.*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://github.com/abhi-092">
+  <img src="https://img.shields.io/badge/GitHub-abhi--092-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/abhi-rajput-842211270">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ak0548910@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhi-092&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abhi-092&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I am a second-year **BSc Data Science student at AAFT Institute**, developing practical skills in data analysis, business intelligence, programming, and data visualization.
+
+I enjoy exploring datasets, writing SQL queries, creating dashboards, and developing Python-based applications. I am continuously learning new tools and applying analytical thinking to practical projects.
+
+- 🎓 **Education:** BSc Data Science, AAFT Institute
+- 📊 **Interests:** Data Analytics, Business Intelligence, Data Visualization
+- 🐍 **Programming:** Python
+- 🗄️ **Database:** SQL
+- 📈 **Visualization:** Power BI, Tableau
+- 🌐 **Application Development:** Streamlit
+- ☁️ **Additional Learning:** Machine Learning Fundamentals and AWS Cloud
+- 💼 **Career Goal:** Data Analyst Internship
+
+---
+
+## Technical Skills
+
+### Programming & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+### Data Analysis & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</p>
+
+### Applications & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+</p>
+
+### SQL Concepts
+
+`JOINs` · `GROUP BY` · `HAVING` · `Subqueries` · `Window Functions` · `Stored Procedures` · `User-Defined Functions`
+
+---
+
+## Featured Projects
+
+### 1. Python Data Analysis
+
+Practice projects and exploratory data analysis using datasets such as Titanic, Netflix, Iris, Red Wine, and Student Performance.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
+
+[View Python Repository →](https://github.com/abhi-092/Python-)
+
+### 2. SQL Query Portfolio
+
+A collection of SQL practice queries covering data retrieval, joins, aggregation, analytical functions, subqueries, and reusable database logic.
+
+**Topics:** JOINs, GROUP BY, HAVING, Window Functions, Stored Procedures, User-Defined Functions
+
+[View SQL Repository →](https://github.com/abhi-092/Structured-query-language-)
+
+### 3. Streamlit Applications
+
+Python applications including a calculator, grade calculator, student information form, student list, table generator, and petition form.
+
+**Tools:** Python, Streamlit
+
+[View Streamlit Projects →](https://github.com/abhi-092/Streamlit_projects)
+
+### 4. Power BI Dashboards
+
+Practice dashboards based on accident reporting, BMW sales, car sales, and IPL data, focusing on visual summaries and interactive reporting.
+
+**Tool:** Microsoft Power BI
+
+[Explore All Repositories →](https://github.com/abhi-092?tab=repositories)
+
+---
+
+## Currently Learning
+
+- Data Cleaning and Exploratory Data Analysis
+- SQL for Analytical Problem-Solving
+- Statistics for Data Science
+- Machine Learning Fundamentals
+- Dashboard Design and Business Intelligence
+- Linear Algebra and Python Libraries
+- AWS Cloud Fundamentals
+
+---
+
+## Education
+
+**Bachelor of Science (BSc) in Data Science**  
+AAFT Institute · Second Year
+
+---
+
+## Career Objective
+
+Seeking a **Data Analyst Internship** where I can apply my knowledge of Python, SQL, data analysis, and visualization to practical problems, contribute to data-driven projects, and continue developing my technical skills.
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/abhi-092">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhi-rajput-842211270">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ak0548910@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+- **GitHub:** [github.com/abhi-092](https://github.com/abhi-092)
+- **LinkedIn:** [linkedin.com/in/abhi-rajput-842211270](https://www.linkedin.com/in/abhi-rajput-842211270)
+- **Email:** [ak0548910@gmail.com](mailto:ak0548910@gmail.com)
+
+---
+
+<div align="center">
+
+*Learn continuously. Analyze thoughtfully. Build with purpose.*
+
+</div>
